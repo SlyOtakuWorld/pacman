@@ -52,5 +52,6 @@
 				</e:Skin>
 			</e:skinName>
 		</e:Button>
+		<e:Group id="test" width="200" height="200" x="280" y="1098" visible="false"/>
 	</e:Group>
 </e:Skin>
